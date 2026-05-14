@@ -25,4 +25,3 @@ Sviluppato come parte di un percorso di approfondimento in **Ingegneria**, il pr
 *   **Meccanica Applicata:** Gestione di sistemi di riferimento e trasformazioni di coordinate.
 
 ---
-*Progetto sviluppato da [Il Tuo Nome/LolloRega]*
